@@ -30,7 +30,7 @@ Install
 -------------------------------------------------------------------------------
 
 Copy/symlink the "mediakeys" binary wherever you like, or "make install" to put
-it in /usr/local/bin.
+it in ~/bin.
 
 -------------------------------------------------------------------------------
 Usage
